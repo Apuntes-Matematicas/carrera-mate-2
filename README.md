@@ -1,50 +1,13 @@
 # Melon's Club
-__________________________NORMAS GENERALES ______________________________
+Este es un repositorio de git con todos los apuntes de segundo de carrera de matemáticas que hemos conseguido recopilar algunos alumnos.
 
+## Cómo utilizar
+Hay libertad de usar esta librería para cualquier __uso no comercial__.
 
-       ************* NOMBRES DE ARCHIVOS Y CARPETAS ****************** 
+## Cómo contribuir
+Leer el archivo [CONTRIBUTING.md](https://github.com/CauchyNewton/carrera-mate-2/blob/master/CONTRIBUTING.md).
 
-	A MENOS QUE SEA UN ARCHIVO ESPECIAL, EMPEZAR CON MAYÚSCULA
-	
-	CARACTERES A EVITAR:
+## Sobre nosotros
+Somos _David_, _Dani_ y _Josu_, alumnos de segundo de carrera de matemáticas en la UPV/EHU.
 
-		@@@	  " “(ESPACIO EN BLANCO) ----------------------------->   "-"
-
-		@@@	 "Ñ,ñ"   -------------------------------------------->   "N,n"
-
-	
-
-
-************************************ CUENTAS ************************************ 
-
-- GMAIL + GOOGLE DRIVE:
-
-   Usuario: melonsclubmate@gmail.com
-
-   Contraseña: Holaaloh
-
-
-************************************ FORMA DE GOBIERNO ************************************ 
-
-   REPUBLICA DEMOCRATICA PARLAMENTARIA
-
-   MIEMBROS:
-	
-	-JOSU
-	-DAVID
-	-DANIEL
-
-************************************  MINISTERIOS ************************************ 
-
--Ministerio de GIT HUB: Josu
-
--Ministerio de Google Drive: Dani
-
-
-
-************************************  ARCHIVOS ADMITIDOS ************************************ 
-
--Pdf
-
--Matlab
-
+__Email__: melonsclubmate@gmail.com
