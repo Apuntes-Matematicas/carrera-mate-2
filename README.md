@@ -1,5 +1,5 @@
 # Melon's Club
-Este es un repositorio de git con todos los apuntes de segundo de carrera de matemáticas que hemos conseguido recopilar algunos alumnos.
+Este es un repositorio de git con todos los apuntes de la carrera de matemáticas que hemos conseguido recopilar algunos alumnos.
 
 ## Cómo utilizar
 Hay libertad de usar esta librería para cualquier __uso no comercial__.
