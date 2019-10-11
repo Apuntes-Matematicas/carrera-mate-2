@@ -1,0 +1,3 @@
+En la fila 0 el 0.0% de las palabras contienen solo caracteres permitidos
+En la fila 1 el 0.0% de las palabras contienen solo caracteres permitidos
+En la fila 2 el 0.0% de las palabras contienen solo caracteres permitidos
