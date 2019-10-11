@@ -8,6 +8,6 @@ Hay libertad de usar esta librería para cualquier __uso no comercial__.
 Leer el archivo [CONTRIBUTING.md](https://github.com/CauchyNewton/carrera-mate-2/blob/master/CONTRIBUTING.md).
 
 ## Sobre nosotros
-Somos _David Salvador_, _Daniel Calderón_ y _Josu Pérez_, alumnos de segundo de carrera de matemáticas en la UPV/EHU.
+Somos _David Salvador_, _Irene Campillo_, _Daniel Calderón_ y _Josu Pérez_, alumnos de segundo de carrera de matemáticas en la UPV/EHU.
 
 __Email__: melonsclubmate@gmail.com
