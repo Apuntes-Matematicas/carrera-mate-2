@@ -1,3 +1,0 @@
-Las palabras de la linea 0 que no contienen caracteres prohibidos son: 
-Las palabras de la linea 1 que no contienen caracteres prohibidos son: ojo 
-Las palabras de la linea 2 que no contienen caracteres prohibidos son: ojo 
