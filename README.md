@@ -27,4 +27,4 @@ __Cofundador__: _Daniel Calderón_
 
 __Email__:   calderondaniel97@gmail.com
 
-__Email equipo__: melonsclubmate@gmail.com
+__Email equipo__: carrera.matematicas@gmail.com
