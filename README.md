@@ -25,6 +25,8 @@ Copyright ©2019 Josu Pérez Zarraonandia y Daniel Calderón Abalos
 
 Los autores otorgan permiso para distribuir esta obra con fines no
 comerciales, bajo la licencia «copyleft» de Creative Commons
-Attribution-NonCommercial-ShareAlike 4.0 International. El archivo de la [licencia](https://github.com/Apuntes-Matematicas/carrera-mate-2/blob/master/LICENSE).
+Attribution-NonCommercial-ShareAlike 4.0 International.
+
+La licencia se aplica a toda la obra (todo el repositorio) y a todos los archivos que este contiene. El archivo de la [licencia](https://github.com/Apuntes-Matematicas/carrera-mate-2/blob/master/LICENSE).
 
 Para más información consultar este [link](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
