@@ -1,4 +1,4 @@
-# Melon's Club
+# Apuntes: Segundo de Matemáticas
 Este es un repositorio de git con todos los apuntes de segundo de carrera de matemáticas que hemos conseguido recopilar algunos alumnos.
 
 ## Formato
