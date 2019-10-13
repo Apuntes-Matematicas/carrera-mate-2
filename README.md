@@ -14,7 +14,7 @@ __Fundador__: _Josu Pérez_
 
 __Email__:    josu.perez.zarra@gmail.com
 
-__Fundador__: _Daniel Calderón_
+__Cofundador__: _Daniel Calderón_
 
 __Email__:   calderondaniel97@gmail.com
 
