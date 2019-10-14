@@ -23,9 +23,11 @@ __Email equipo__: carrera.matematicas@gmail.com
 ## Agradecimientos
 Nos gustaría agradecer a todos los alumnos que han colaborado para la creación de este repositorio y en particular a los profesores que nos han permitido utilizar sus apuntes:
 
-__Marta Macho__ profesora de Geometría y Topología.
+__Marta Macho__ profesora de Geometría y Topología en la UPV/EHU.
 
-__Pedro Alegría__ profesor de Análisis.
+__Pedro Alegría__ profesor de Análisis en la UPV/EHU.
+
+__Luis Navas__ profesor de Análisis en la universidad de Salamanca.
 
 ## Licencia
 Copyright ©2019 Josu Pérez Zarraonandia y Daniel Calderón Abalos
